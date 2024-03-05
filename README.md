@@ -1,8 +1,16 @@
 # Movies_Controll_MySQL
 
-Projeto de banco de dados para controle de filmes e series assistidos. 
+Este é um projeto de banco de dados para controle de filmes e séries assistidos. O objetivo principal é demonstrar meus conhecimentos em linguagem SQL e procedimentos armazenados.
 
-Objetivo: Demonstrar meus conhecimentos em linguagem sql e procedural.
+## Funcionalidades
+
+- Armazenamento de informações sobre filmes e séries assistidos.
+- Consultas SQL para recuperar dados relevantes.
+- Procedimentos armazenados para automatizar tarefas comuns.
+
+## Ferramenta Utilizada
+
+- **MySQL**: Um sistema de gerenciamento de banco de dados relacional amplamente utilizado.
 
 
 

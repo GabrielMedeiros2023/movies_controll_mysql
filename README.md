@@ -1,4 +1,4 @@
-# Movies_Controll_MySQL
+# Movies_Controll
 
 Este é um projeto de banco de dados para controle de filmes e séries assistidos. O objetivo principal é demonstrar meus conhecimentos em linguagem SQL e procedimentos armazenados.
 
